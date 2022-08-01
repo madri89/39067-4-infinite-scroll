@@ -1,0 +1,10 @@
+body {
+    background-color: aliceblue;
+}
+
+#loading {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    display: none;
+}
