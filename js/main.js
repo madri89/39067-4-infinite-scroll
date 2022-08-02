@@ -81,7 +81,6 @@ const scrollToEndOfPage =  () =>{
 
        endOfThePage += 1;
         console.log(`Ilość scroll: ${endOfThePage}`);
-        showLoading();
         getData();
     }
 
